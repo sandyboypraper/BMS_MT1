@@ -109,7 +109,7 @@ class Discription extends Component {
          </div>
 
          <div style = {discription}>
-         Create and return a new React element of the given type. The type argument can be either a tag name string (such as 'div' or 'span' ), a React component type (a class or a function), or a React fragment type. Code written with JSX will be converted to use React.createElement() .
+        I Try to get the description but i can not find inside the API Response , So I writing this Sorry :(
          </div>
 
          <div style = {BottomIcon} >
